@@ -1,6 +1,6 @@
 # Hi there, I'm Channa Ven 👋
 
-### Full Stack Developer • Phnom Penh, Cambodia
+### Full Stack Developer
 
 ---
 
@@ -34,5 +34,6 @@ ESP32 (Arduino) • BLE • OpenAI API • Odoo ERP • Browser Automation
 
 ### **Connect with Me**
 
-📧 **Email:** [venchanna22@gmail.com](mailto:venchanna22@gmail.com)  
+ **Email:** [venchanna22@gmail.com](mailto:venchanna22@gmail.com)  
 🌐 **Portfolio:** [channa-portfolio-five.vercel.app](https://channa-portfolio-five.vercel.app/)  
+📍 **Location:** Phnom Penh, Cambodia  
